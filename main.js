@@ -1,5 +1,5 @@
 function dates() {
-    var x = new Date("Feb 08 2022 17:55:00");
+    var x = new Date("Feb 08 2022 16:05:00");
     var y = new Date();
     let seconds = Math.abs(x - y) / 1000;
 
